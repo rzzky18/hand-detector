@@ -10,9 +10,10 @@ Proyek Python yang memanfaatkan kamera untuk mendeteksi tangan dan mengubah gest
 
 ✅ Deteksi tangan real-time (21 titik landmark)  
 🖱️ Kontrol mouse:
-- Klik kiri: Ibu jari & telunjuk menyatu
-- Klik kanan: Ibu jari & jari tengah menyatu  
-- Gerakkan kursor: Gerakkan tangan secara bebas  
+- Klik kiri: jari telunjuk & jari kelingking terbuka
+- Klik kanan: Ibu jari, jari telunjuk & jari kelingking terbuka
+- Double Klik: Ibu jari & jari kelingking terbuka  
+- Gerakkan kursor: Buka semua tangan & Gerakkan tangan secara bebas  
 🔉 Kontrol volume:
 - Volume up/down berdasarkan jarak ibu jari & jari telunjuk  
 🖱️ Scroll:
